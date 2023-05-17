@@ -49,3 +49,7 @@ Temporary Items
 
 # Database
 /ml-1m
+
+# Pycharm
+.idea
+venv
